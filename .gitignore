@@ -1,0 +1,10 @@
+.obsidian/workspace.json
+.obsidian/workspace-backup.json
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+tmp/
+.temp/
+.cache/
+.trash/
